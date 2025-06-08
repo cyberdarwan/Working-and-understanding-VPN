@@ -14,7 +14,7 @@
 - Final summary with insights
 
 ## 📁 Files Included
-- `vpn_report.md`
+- `report.md`
 - `screenshots/` folder:
   - VPN client (connected)
   - IP before/after
